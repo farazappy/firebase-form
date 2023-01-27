@@ -1,0 +1,11 @@
+{
+  "name": "@farazappy/firebase-form",
+  "version": "0.0.1",
+  "description": "Submit nuxt forms to firebase.",
+  "main": "module.js",
+  "author": "farazappy",
+  "license": "MIT",
+  "dependencies": {
+    "@nuxtjs/firebase": "^8.2.2"
+  }
+}
